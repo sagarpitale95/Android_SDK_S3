@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">my_prac</string>
+    <string name="main_Button_1">Send File to Server</string>
+    <string name="main_Button_2">Recieve file from server</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="browse">Browse File</string>
+    <string name="send">Upload File</string>
+</resources>
